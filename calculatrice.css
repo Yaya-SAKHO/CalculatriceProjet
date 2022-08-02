@@ -1,0 +1,54 @@
+	#calc
+	{
+		width: 390px;
+		background-color: #eeeeee;
+		border: 2px solid #CCCCCC;
+		margin: auto; 
+		padding: 15px;
+	}
+
+	#titre
+	{
+		font-weight: bold;
+	}
+
+
+	#ligne_affichage
+	{
+		margin-top:10px;
+	}
+
+	#zone_affichage
+	{
+		font-size:20px;
+		text-align:right;
+		width:352px;
+	}
+
+	.ligne_boutons
+	{
+		margin-top:5px;
+		margin-bottom:5px;
+	}
+
+	input 
+	{
+		display:inline-block;
+	}
+
+	.bouton_classique 
+	{
+		width:60px;
+		font-size:18px;
+		padding:0px;
+		margin:auto;
+	}
+
+	.bouton_libre 
+	{
+		width:110px;
+		font-size:20px;
+		padding:0px;
+		margin:auto;
+	}
+
